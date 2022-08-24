@@ -1,7 +1,7 @@
 # Spam module
 
 The spam module allows users to send multiple counts in a row, instead of having to wait for someone else to count before they can count again.
-
+use /allowSpam
 ```mdx-code-block
 import {
   DiscordMessages as Discord,
